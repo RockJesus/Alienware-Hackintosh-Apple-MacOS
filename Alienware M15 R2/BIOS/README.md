@@ -1,0 +1,1 @@
+setup_var.efi Setup(0x1):0x704=0
