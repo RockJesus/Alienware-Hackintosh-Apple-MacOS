@@ -1,0 +1,3 @@
+setup_var.efi CpuSetup:0x3E=0x00
+
+setup_var.efi SaSetup:0xF5=0x02
