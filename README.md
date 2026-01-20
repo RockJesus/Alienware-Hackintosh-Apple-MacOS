@@ -69,7 +69,7 @@ dw1820问题多多麻烦，dw1830有点大装不进去，
 intel有线网卡蓝牙可驱动，无线网卡[驱动](https://github.com/OpenIntelWireless/itlwm)
 
 
-3.大家有补充的可以@我
+3.wifi,蓝牙，usb驱动移步https://github.com/laobamac/OCLP-Mod
 
 # 如有疑问请进QQ群 If u need help >> [![Gitter](https://badges.gitter.im/Alienware-hackintosh/community.svg)](https://gitter.im/Alienware-hackintosh/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
